@@ -19,3 +19,4 @@ Instale as dependências que estão no arquivo requirements.txt e execute o prog
 Após a execução, o programa cria um arquivo chamado Analise_Consumo.xlsx que contém tabelas com médias, máximos e mínimos e variação do consumo. E também cria um arquivo chamado log.txt com os logs das requisições à API e eventos do sistema 
 
 autor: Daniel Pereira Lima.
+https://www.linkedin.com/in/daniel-pereira-lima-b92a52324
